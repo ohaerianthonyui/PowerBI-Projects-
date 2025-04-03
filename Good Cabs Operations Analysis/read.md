@@ -45,13 +45,14 @@ Findings will be presented in a clear and visually engaging manner to help the C
 ### Key Insights
 
 
-- **Total Revenue is 108bpm
+### Key Performance Metrics
 
-- **Total Trips** is 426k, while thr target for total trips was 429k showing a -072% difference.
-- 
-- **Average Passengers Rating** was 7.66 from the 7.98 target, showing a -3.94% difference.
-- 
-- **Total new passengers** was 177k from the 185k target, showing a -4.38% difference.
+- **Total Revenue**: ₹108 BPM  
+- **Total Trips**: 426k (Target: 429k), showing a **-0.72%** difference.
+- **Average Passenger Rating**: 7.66 (Target: 7.98), showing a **-3.94%** difference.
+- **Total New Passengers**: 177k (Target: 185k), showing a **-4.38%** difference. 
+
+These metrics indicate areas for improvement, particularly in trip volume, passenger satisfaction, and new passenger acquisition.
 
 
 - **Jaipur**:  
