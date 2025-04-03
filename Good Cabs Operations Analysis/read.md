@@ -1,4 +1,4 @@
-![Screenshot_3-4-2025_135214_](https://github.com/user-attachments/assets/63ac0277-ed14-452b-a2d7-88bcc9f1d78e)
+
 ### Goodcabs-Operations-Analysis
 
 This repository contains resources aimed at analyzing and enhancing the operations of **Goodcabs** in tier-2 cities across India. The contents include:
@@ -40,7 +40,7 @@ Findings will be presented in a clear and visually engaging manner to help the C
 - **Data Modeling:** Snowflake schema
 - **Tools:** Excel, Power BI Desktop, Power BI Service, and PowerPoint.
 
-
+![Screenshot_3-4-2025_135214_](https://github.com/user-attachments/assets/63ac0277-ed14-452b-a2d7-88bcc9f1d78e)
 
 ### Key Insights
 
