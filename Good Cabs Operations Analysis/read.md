@@ -41,7 +41,7 @@ Findings will be presented in a clear and visually engaging manner to help the C
 - **Tools:** Excel, Power BI Desktop, Power BI Service, and PowerPoint.
 
 
-![Uploading Screenshot_4-4-2025_131955_.jpeg…]()
+![Screenshot_4-4-2025_131955_](https://github.com/user-attachments/assets/03863685-c21e-468e-a78d-c230bf693bc3)
 
 
 
