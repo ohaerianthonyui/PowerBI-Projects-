@@ -39,6 +39,11 @@ The analysis was carried out using **Power BI**, where the data was cleaned, tra
 
 ---
 
+
+
+![Dash](https://github.com/user-attachments/assets/526c9aec-d0d5-4899-98f3-012e960cb29f)
+
+
 ### 📈 **Key Findings**
 
 - **Total Revenue:** $59.1 million  
