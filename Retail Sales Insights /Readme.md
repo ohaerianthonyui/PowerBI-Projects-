@@ -41,7 +41,8 @@ The analysis was carried out using **Power BI**, where the data was cleaned, tra
 
 
 
-![Dash](https://github.com/user-attachments/assets/526c9aec-d0d5-4899-98f3-012e960cb29f)
+![Dash](https://github.com/user-attachments/assets/1cb8257a-3a07-44be-8b8c-9fa4d157eabc)
+
 
 
 ### 📈 **Key Findings**
